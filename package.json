@@ -1,0 +1,12 @@
+{
+  "name": "pluton-jwt",
+  "version": "0.1.0",
+  "description": "Pluton - JWT plugin",
+  "main": "lib/index.js",
+  "author": "Benjamin HAMON <benjamin@hamon.sh>",
+  "license": "MIT",
+  "dependencies": {
+    "extend": "^3.0.2",
+    "jsonwebtoken": "^8.4.0"
+  }
+}
