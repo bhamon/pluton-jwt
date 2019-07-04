@@ -6,7 +6,6 @@
   "author": "Benjamin HAMON <benjamin@hamon.sh>",
   "license": "MIT",
   "dependencies": {
-    "extend": "^3.0.2",
-    "jsonwebtoken": "^8.4.0"
+    "titan-jwt": "github:bhamon/titan-jwt"
   }
 }
