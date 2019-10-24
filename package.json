@@ -5,7 +5,7 @@
   "main": "lib/index.js",
   "author": "Benjamin HAMON <benjamin@hamon.sh>",
   "license": "MIT",
-  "dependencies": {
+  "peerDependencies": {
     "titan-jwt": "github:bhamon/titan-jwt"
   }
 }
